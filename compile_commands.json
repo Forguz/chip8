@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "./",
+    "arguments": ["-v", "-Wall", "-Wextra", "-Werror", "-I ./include", "-D_THREAD_SAFE", "-L ./lib", "-l SDL2"],
+    "file": "chip8.c"
+  }
+]
